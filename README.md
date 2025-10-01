@@ -6,6 +6,7 @@ The robot navigates through a maze world while avoiding walls, demonstrating bas
 ---
 
 ## 📂 Project Structure
+```bash
 maze_navigation/
 │── maze_navigation/
 │ ├── init.py
@@ -16,7 +17,7 @@ maze_navigation/
 │ └── maze_world.world # Custom Gazebo maze environment
 │── README.md
 │── requirements.txt
-
+```
 ---
 
 ## 🚀 Features
@@ -75,7 +76,7 @@ The Bug Algorithm is a simple motion planning method:
 
 ## 📸 Demo (Optional GIF/Screenshot)
 
-Add a screenshot or GIF of the robot navigating the maze here.
+![Demo GIF](docs/demo.gif)
 
 ---
 
@@ -92,6 +93,7 @@ Add a screenshot or GIF of the robot navigating the maze here.
 ---
 
 ## 👨‍💻 Author
-
-Created by Sundat Ikechukwu
+```bash
+Created by Sunday Ikechukwu
 GitHub: [Precious-Weal5699](https://github.com/Precious-Weal5699)
+```
